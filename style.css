@@ -1,0 +1,40 @@
+.gallery img{
+    width: 50%;
+}  
+h2{
+    font-size: 32px;
+    color: cornflowerblue;
+
+}
+h4{
+    font-size: 32px;
+    color: cornflowerblue;
+    font-style: oblique
+           
+}
+p{
+    font-family: serif
+}
+
+#menu{
+    width: 120%;
+    height: 50px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif
+    font-size: 18px;
+    font-family: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a:hover{
+    background-color: blueviolet;
+    color: #ffffff;
+}
